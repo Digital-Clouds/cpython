@@ -9,6 +9,10 @@ This is Python version 3.10.0 alpha 3
    :alt: CPython build status on GitHub Actions
    :target: https://github.com/python/cpython/actions
 
+.. image:: https://travis-ci.com/ss-o/cpython.svg?branch=master
+   :alt: Travis
+   :target: https://travis-ci.com/ss-o/cpython
+
 .. image:: https://dev.azure.com/python/cpython/_apis/build/status/Azure%20Pipelines%20CI?branchName=master
    :alt: CPython build status on Azure DevOps
    :target: https://dev.azure.com/python/cpython/_build/latest?definitionId=4&branchName=master
@@ -20,7 +24,6 @@ This is Python version 3.10.0 alpha 3
 .. image:: https://img.shields.io/badge/zulip-join_chat-brightgreen.svg
    :alt: Python Zulip chat
    :target: https://python.zulipchat.com
-
 
 Copyright (c) 2001-2020 Python Software Foundation.  All rights reserved.
 
